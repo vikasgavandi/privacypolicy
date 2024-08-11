@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Easy.Dev QR Gen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+        <h2>1. Introduction</h2>
+        <p>Welcome to Easy.Dev QR Gen. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information when you use our QR code generation application.</p>
+
+        <h2>2. Information We Collect</h2>
+        <p><strong>Personal Information:</strong> We may collect personal information such as your name and email address if you choose to provide it, for example, when contacting us for support or providing feedback.</p>
+        <p><strong>Usage Data:</strong> We collect non-personal information related to your use of the app, such as the type of QR codes generated, interaction data, and technical details about your device and browser.</p>
+
+        <h2>3. How We Use Your Information</h2>
+        <p><strong>Service Provision:</strong> The primary use of your data is to provide and improve the QR code generation services offered by the Easy.Dev QR Gen app.</p>
+        <p><strong>Communication:</strong> If you provide contact information, we may use it to respond to your inquiries or send updates about the app.</p>
+        <p><strong>Analytics:</strong> We use aggregated usage data to analyze app performance, improve user experience, and develop new features.</p>
+
+        <h2>4. Sharing and Disclosure of Information</h2>
+        <p><strong>Third-Party Services:</strong> We do not share your personal information with third parties, except as required to provide our services or comply with legal obligations.</p>
+        <p><strong>Security:</strong> We implement reasonable security measures to protect your data from unauthorized access, but we cannot guarantee absolute security due to the nature of the Internet.</p>
+
+        <h2>5. User Rights and Choices</h2>
+        <p><strong>Access and Control:</strong> You have the right to access and update your personal information. You can also request the deletion of your data by contacting us.</p>
+        <p><strong>Opt-Out:</strong> If you prefer not to receive communications from us, you can opt-out by following the unsubscribe instructions provided in our emails or by contacting us directly.</p>
+
+        <h2>6. Data Retention</h2>
+        <p>We retain your data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, comply with legal obligations, or resolve disputes.</p>
+
+        <h2>7. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of any significant changes by posting the updated policy on our website or through the app. Your continued use of the app after changes are made constitutes your acceptance of the revised policy.</p>
+
+        <h2>8. Contact Us</h2>
+        <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:</p>
+        <p><strong>Email:</strong> vikasgavandi.dev@gmail.com</p>
+        <p><strong>Address:</strong> 102, Mumbai</p>
+        <p><strong>Website:</strong> <a href="
+https://vikasgavandi.github.io/journey/">
+https://vikasgavandi.github.io/journey/</a></p>
+    </div>
+</body>
+</html>
+
